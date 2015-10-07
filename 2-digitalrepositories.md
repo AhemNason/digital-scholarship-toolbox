@@ -1,5 +1,11 @@
 # On Repositories
 
+- institutional
+- digital collections
+- subject/discipline based
+- "open"
+- data
+
 ## What's a repository?
 - Institutional repositories
 - Subject based or disciplinary repositories
