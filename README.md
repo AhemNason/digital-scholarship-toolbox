@@ -1,6 +1,6 @@
 # Oh, Hello
 
-Welcome to the CAUL/CBUA SCC **Digital Scholarship Toolbox**. That's already a lot of information, so let's unpack it. 
+Welcome to the CAUL/CBUA SCC **Digital Scholarship Toolbox**, an open, online resource for CAUL/CBUA institution faculty, staff, and students. That's already a lot of information, so let's unpack it. 
 
 - [CAUL/CBUA](http://www.caul-cbua.ca/) stands for the Council of Atlantic University Libraries / Conseil des bibliothèques universitaires de l’Atlantique. It is a collaborative partnership of 19 post-secondary libraries in Atlantic Canada. 
 - [SCC](http://www.caul-cbua.ca/committee/scholarlycomms) stands for the Scholarly Communications Committee, which is made up of members of CAUL/CBUA institution librarians involved in scholarly communications initiatives. 
