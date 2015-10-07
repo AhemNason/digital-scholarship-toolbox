@@ -8,8 +8,8 @@ Welcome to the CAUL/CBUA SCC **Digital Scholarship Toolbox**, an open, online re
    - open access
    - digital repositories
    - digital curation
-   - digital copyright
-   - author's rights
+   - digital copyright and publishing
+   - author's rights and publishing
    - digital preservation
 - A **Toolbox ** is a box of tools. Like, for helping to do things. 
 
