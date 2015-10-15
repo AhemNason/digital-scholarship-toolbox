@@ -11,7 +11,7 @@
 - Subject based or disciplinary repositories
 
 ##What's not a repository? 
-- could be covered here as well. e.g. scholarly social networking sites such as ResearchGate, SSRN, Academia.edu
+- e.g. scholarly social networking sites such as ResearchGate, SSRN, Academia.edu
 
 
 
