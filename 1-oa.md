@@ -8,7 +8,7 @@ Potential topics:
 
  - Green vs. Gold
  - Predatory journals?
- - ???
+ - Hybrid OA
 
 ##Why should I care? 
 
