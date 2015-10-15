@@ -16,3 +16,5 @@ Welcome to the CAUL/CBUA SCC **Digital Scholarship Toolbox**, an open, online re
 *Whew*. This [GitBook](https://www.gitbook.com/) is an attempt at creating a generalized resource for faculty, students, and staff of CAUL/CBUA institutions as a collaborative effort of the Scholarly Communications Committee. Furthermore, this GitBook is a living document that is intended to reflect *up to date* information. <s>Fingers crossed</s>. 
 
 Original publication of this GitBook occured in October 2015, to coincide with [Open Access Week](http://www.openaccessweek.org/). 
+
+> some note about the growth of this document. 
