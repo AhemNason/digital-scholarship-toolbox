@@ -6,7 +6,7 @@ So much has been written on open access. Like, so many things.
 
 Potential topics:
 
- - Green vs. Gold
+ - Green vs. Gold vs. Platinum (no APCs)
  - Predatory journals?
  - Hybrid OA
 
