@@ -1,6 +1,6 @@
 # On Repositories
 
-- institutional
+- institutional (and orphan repositories?)
 - digital collections
 - subject/discipline based
 - "open"
