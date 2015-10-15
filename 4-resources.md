@@ -9,5 +9,5 @@ like the soon-to-be-released CRKN Institutional Mobilization Task Group (IMTG)'s
 CARL's resources etc.
 
 (maybe) Current and developing initiatives?
-SHARE
-Portage
+- SHARE
+- Portage
