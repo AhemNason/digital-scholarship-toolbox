@@ -1,6 +1,6 @@
 # Resources
 
-EITHER list the usual:
+##The Big Guns:
 - SHERPA Romeo
 - SHERPA Juliet
 - DOAJ etc.
