@@ -14,7 +14,7 @@ Potential topics:
 
 ##Canadian context
 
-Should we include content on Canadian Tri-Agency requirements for Open Access?
+Although the Canadian Institute for Health Research (CIHR) has had an open access policy since 2008, it wasn't until 2014 that all three of the primary research funding bodies in Canada implemented a joint open access policy. Known as the Tri-Agency Open Access Policy on Publications,  Should we include content on Canadian Tri-Agency requirements for Open Access?
 
 - Green or gold allowed;
 - authors fees claimable;
