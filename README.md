@@ -13,7 +13,7 @@ Welcome to the CAUL/CBUA SCC **Digital Scholarship Toolbox**, an open, online re
    - digital preservation
 - A **Toolbox ** is a box of tools. Like, for helping to do things. 
 
-*Whew*. This [GitBook](https://www.gitbook.com/) is an attempt at creating a generalized resource for faculty, students, and staff of CAUL/CBUA institutions as a collaborative effort from the members of the CAUL/CBUA Scholarly Communications Committee. 
+*Whew*. This [GitBook](https://www.gitbook.com/) is an attempt at creating a open, generalized, living digital scholarship resource for faculty, librarians, students, and staff of CAUL/CBUA institutions as a collaborative effort from the members of the CAUL/CBUA Scholarly Communications Committee. 
 
 <hr>
 
