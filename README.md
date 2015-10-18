@@ -1,3 +1,5 @@
+![header](https://raw.githubusercontent.com/AhemNason/digital-scholarship-toolbox/master/images/caul_header.png)
+
 # Oh, Hello
 
 Welcome to the CAUL/CBUA SCC **Digital Scholarship Toolbox**, an open, online resource for CAUL/CBUA institution faculty, staff, and students. That's already a lot of information, so let's unpack it. 
