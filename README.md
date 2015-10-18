@@ -1,7 +1,5 @@
 ![header](https://raw.githubusercontent.com/AhemNason/digital-scholarship-toolbox/master/images/caul_header.png)
 
-# Oh, Hello
-
 Welcome to the CAUL/CBUA SCC **Digital Scholarship Toolbox**, an open, online resource for CAUL/CBUA institution faculty, staff, and students. That's already a lot of information, so let's unpack it. 
 
 - [CAUL/CBUA](http://www.caul-cbua.ca/) stands for the Council of Atlantic University Libraries / Conseil des bibliothèques universitaires de l’Atlantique. It is a collaborative partnership of 19 post-secondary libraries in Atlantic Canada. 
@@ -15,8 +13,4 @@ Welcome to the CAUL/CBUA SCC **Digital Scholarship Toolbox**, an open, online re
    - digital preservation
 - A **Toolbox ** is a box of tools. Like, for helping to do things. 
 
-*Whew*. This [GitBook](https://www.gitbook.com/) is an attempt at creating a generalized resource for faculty, students, and staff of CAUL/CBUA institutions as a collaborative effort of the Scholarly Communications Committee. Furthermore, this GitBook is a living document that is intended to reflect *up to date* information. <s>Fingers crossed</s>. 
-
-Original publication of this GitBook occured in October 2015, to coincide with [Open Access Week](http://www.openaccessweek.org/). 
-
-> some note about the growth of this document. 
+*Whew*. This [GitBook](https://www.gitbook.com/) is an attempt at creating a generalized resource for faculty, students, and staff of CAUL/CBUA institutions as a collaborative effort from the members of the CAUL/CBUA Scholarly Communications Committee. 
