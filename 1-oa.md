@@ -1,6 +1,6 @@
 #On Open Access
 
-So much has been written on open access. Like, so many things. 
+The Open Access (OA) movement is based on the principle that the products of academic research should be freely accessible to everyone. 
 
 ##What is it?
 
@@ -11,8 +11,6 @@ Potential topics:
  - Hybrid OA
 
 ##Why should I care? 
-
-##Will anyone listen?
 
 ##Canadian context
 
