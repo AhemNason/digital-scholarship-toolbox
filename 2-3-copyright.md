@@ -1,2 +1,2 @@
-# Copyright and Author's Rights
+# Copyright and Authors' Rights
 
