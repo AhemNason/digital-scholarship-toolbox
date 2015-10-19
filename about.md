@@ -12,8 +12,8 @@ Original publication of this GitBook occurred in October 2015, to coincide with 
 
 If you have any questions about this document or its content, you can contact either of the following:
 
-*Scholarly Communications Committee Chair*    
 Lise Brin    
+*Scholarly Communications Committee Chair*  
 Scholarly Communications Librarian   
 St. Francis Xavier University  
 lbrin@stfx.ca
