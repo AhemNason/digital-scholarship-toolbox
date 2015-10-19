@@ -9,4 +9,5 @@
    * [Copyright and Author's Rights](2-3-copyright.md)
 * [On Repositories](3-digitalrepositories.md)
 * [Resources](4-resources.md)
+* [Contributors](5-contributors.md)
 
