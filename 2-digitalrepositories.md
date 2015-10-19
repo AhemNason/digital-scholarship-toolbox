@@ -1,5 +1,7 @@
 # On Repositories
 
+In most conversations about open access, a repository is a place to store and manage digital content. Additionally, many repositories display content as well a preserve it. 
+
 - institutional (and adoptive repositories?)
 - digital collections
 - subject/discipline based
