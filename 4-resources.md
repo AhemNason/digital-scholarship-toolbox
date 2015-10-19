@@ -4,9 +4,9 @@ While not exhaustive, the following is a list of some of our favourite resources
 
 **Open Access Literacy**
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Open_access) // an excellent overview of open access issues and terminology.
-- [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/) // the Budapest OA Intitiative is where the OA movement began.
 - [Peter Suber's Overview of Open Access](http://legacy.earlham.edu/~peters/fos/overview.htm) // Peter Suber is one of the most respected figures in OA. This overview serves as an excellent starting point for OA literacy.
+- [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/) // the Budapest OA Intitiative is where the OA movement began.
+- [Wikipedia](https://en.wikipedia.org/wiki/Open_access) // an excellent overview of open access issues and terminology.
 - [Open Access Explained - Piled Higher and Deeper](https://www.youtube.com/watch?v=L5rVH1KGBCY) // A tremendously relevant and accessible video about OA by the creators of PhD Comics. 
 
 **Publishing Tools and Resources**
