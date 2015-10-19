@@ -6,8 +6,8 @@ Open Access comes in a variety of flavours as well. There's *gratis open access*
 
 That said, there are plenty of excellent descriptions of open access out there, so rather than reinventing the wheel, please check out these great resources:
 
->**Read More About OA**
-- [Wikipedia](https://en.wikipedia.org/wiki/Open_access)<img src="http://media.lib.unb.ca/openaccess/images/oa_plos_trans.png" style="float:right;"/> 
+>**Read More About OA** <img src="http://media.lib.unb.ca/openaccess/images/oa_plos_trans.png" style="float:right;"/> 
+- [Wikipedia](https://en.wikipedia.org/wiki/Open_access)
 - [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/)
 - [Peter Suber's Overview of Open Access](http://legacy.earlham.edu/~peters/fos/overview.htm)
 - [Open Access Explained - Piled Higher and Deeper](https://www.youtube.com/watch?v=L5rVH1KGBCY)
