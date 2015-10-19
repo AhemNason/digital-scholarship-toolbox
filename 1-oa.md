@@ -12,13 +12,9 @@ That said, there are plenty of excellent descriptions of open access out there, 
 - [Peter Suber's Overview of Open Access](http://legacy.earlham.edu/~peters/fos/overview.htm)
 - [Open Access Explained - Piled Higher and Deeper](https://www.youtube.com/watch?v=L5rVH1KGBCY)
 
-##What is it?
+##Why is Open Access Important?
 
-Potential topics:
 
- - Green vs. Gold vs. Platinum (no APCs)
- - Predatory journals?
- - Hybrid OA
 
 ##Why should I care? 
 
