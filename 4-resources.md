@@ -1,5 +1,9 @@
 # Resources
 
+While not exhaustive, the following is a list of some of our favourite resources related to open access. 
+
+##Open Access
+
 ##The Big Guns:
 - SHERPA Romeo
 - SHERPA Juliet
