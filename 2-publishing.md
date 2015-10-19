@@ -9,5 +9,9 @@ There are certainly a lot of factors to consider when it comes to publishing. A 
 - Does their institution have an open access mandate?
 - Does the agency who funded their research have an open access mandate? 
 - Does a certain publisher allow for self-archiving in an institutional or discipline-based repository?
-- 
+- Does a publisher allow an author to keep copyright of their work? 
+- Is a journal trustworthy? 
+- Does a journal have an author processing charge?
+
+These are just a few of the questions researchers might be asking. This section of the toolbox is intended to help answer some of these questions. 
 
