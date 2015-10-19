@@ -1,6 +1,6 @@
 # Resources
 
-While not exhaustive, the following is a list of some of our favourite resources related to open access. As mentioned in the introduction, this list is subject to change as 
+While not exhaustive, the following is a list of some of our favourite resources related to open access. As mentioned in the introduction, this list is subject to updates over time. 
 
 **Open Access Literacy**
 
