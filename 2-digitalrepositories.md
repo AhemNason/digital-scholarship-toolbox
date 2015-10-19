@@ -10,8 +10,6 @@ Repositories come in a few shapes and sizes, and through a variety of different 
 - **Subject/Discipline-Based Repositories** // Outside of the purview of specific institutions, some repositories represent certain fields of practice or study and collect/share materials by discipline. 
 - **Research Data Repositories** // Many types of repository software have yet to tackle the challenges unique to displaying and sharing research data. However, the number of research data repositories are growing and they aim to make research data as open for reuse as possible. 
 
-
-
 ## What's not a repository? 
 - e.g. scholarly social networking sites such as ResearchGate, SSRN, Academia.edu
 
