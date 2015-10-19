@@ -2,7 +2,7 @@
 
 The Open Access (OA) movement is based on the principle that the products of academic research should be freely accessible to everyone. 
 
-There are plenty of good overviews of open access out there, so rather than write our own, here are a few:
+There are plenty of good descriptions of open access out there, so rather than write our own, here are a few:
 
 - [The Wikipedia entry on open access](https://en.wikipedia.org/wiki/Open_access)
 - [Peter Suber's overview of open access](http://legacy.earlham.edu/~peters/fos/overview.htm)
