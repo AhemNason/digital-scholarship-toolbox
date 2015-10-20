@@ -18,4 +18,5 @@ While not exhaustive, the following is a list of some of our favourite resources
 - [Creative Commons](http://creativecommons.org/) // A nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.
 - [Directory of Open Access Journals](https://doaj.org/) // An online directory with firm rules for inclusion that indexes and provides access to high quality, open access, peer-reviewed journals.
 - [OpenDOAR Directory of Open Access Repositories](http://www.opendoar.org/) // An authoritative directory of academic open access repositories, be they institutional, disciplinary, or otherwise.
+- [OAD Disciplinary Repositories List](http://oad.simmons.edu/oadwiki/Disciplinary_repositories) // An extensive list of repositories by discipline, maintained by Simmons College.
 
