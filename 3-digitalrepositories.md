@@ -19,7 +19,7 @@ There are a number of places that count as a managed repository that's disciplin
 
 That said, if your institution *does not* have a repository, you may be looking elsewhere. The Open Access Directory at Simmons has an [excellent list of disciplinary repositories](http://oad.simmons.edu/oadwiki/Disciplinary_repositories).
 
-It's often the case that faculty have been putting their content *somewhere*, though. Faculty in Chemistry or Math, for example, often share their content in [arxiv.org](http://arxiv.org/). Arxiv is a managed, disciplinary repository with a great reputation. Othertimes, however, you might hear someone inquire about ResearchGate or Academia.edu. For all intents and purposes, these sites are not repositories. They are actually much more like academic Facebook than a managed repository, and, what's worse, if a journal's policies don't allow sharing of an item on social media, posting your articles there could be in violation of your contract with a publisher. 
+It's often the case that faculty have been putting their content *somewhere*, though. Faculty in Chemistry or Math, for example, often share their content in [arxiv.org](http://arxiv.org/). Arxiv is a managed, disciplinary repository with a great reputation. Other times, however, you might hear someone inquire about ResearchGate or Academia.edu. For all intents and purposes, these sites are not repositories. They are actually much more like academic Facebook than a managed repository, and, what's worse, if a journal's policies don't allow sharing of an item on social media, posting your articles there could be in violation of your contract with a publisher. 
 
 
 
