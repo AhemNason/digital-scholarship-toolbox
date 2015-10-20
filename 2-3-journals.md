@@ -6,18 +6,26 @@ Looking for a journal in which to submit research can be stressful. This guide i
 
 ## Finding an Appropriate Journal 
 
-### Establish whether the journal's website and emails seems professional:
+There are a number of different criteria for evaluating the legitimacy of an academic journal. This isn't just worth knowing for the possibility of encountering a predatory publisher, but also in determining the quality of a journal's content.
+
+One excellent place to start is with the resource, [Think Check Submit](http://thinkchecksubmit.org/). It's a collaborative product from coalition of scholarly communications groups to help determine a journal's credentials. It serves as an excellent starting point. 
+
+Additionally, you may want to consider the following criteria:
+
+**Evaluating a Journal's Communication**:
+
 - Respectable spelling, grammar, punctuation? 
 - Is journal description well-crafted? Does it display an advanced understanding of the matter?
-- Contact information is given? Does it appear complete and credible?
-- Editor and editorial board listed? Are these recognized experts in the field?
-- ISSN listed?
-- Publishes regularly? Decent number of articles in each issue? Issues and articles easy to find and access on the website?
-- Peer reviewed? Uses accepted peer review processes for this discipline?
-- Clearly indicates whether APCs (author processing charges) will be applied for accepted manuscripts.
+- Is contact information is given? Does it appear complete and credible?
+- Are the editor and editorial board listed? Are these recognized experts in the field?
+- Does the journal have an ISSN listed?
+- Does the journal publish regularly? Are there a decent number of articles in each issue? Issues and articles easy to find and access on the website?
+- Is the journal peer-reviewed? Does it use accepted peer-review processes for this discipline?
+- Does the journal site clearly indicate whether APCs (author processing charges) will be applied for accepted manuscripts.
 
-###Look for qualitative signs of reliability and respectability:
-*Note*: Use whichever tools are at your disposal at your institution.
+**Potential Tools for Evaluation**:
+
+*You can use whichever of these tools are at your disposal at your institution*.
 
 Check for peer review info, e.g.:
   
@@ -42,16 +50,9 @@ Check for affiliation with respected industry associations, e.g.:
 
 Search the web to find any potentially alarming information about this journal or publisher, including:
 
-  * discussions about this specific journal (if possible, discussions between researchers in this field — their opinion may carry more weight);
-  * discussions about the same publisher but not necessarily the same journal; 
-  * [Beall's list] (use with caution).
-
-####How to Craft Your Response to the Faculty Member:
-#####The Intro Disclaimer:
-- Something along the lines of: "Unfortunately, there's no magic list that can tell you which journals are Good or Bad";
-- Impact factors and other metrics only show you part of the picture;
-- [Beall's list] should not be taken as gospel – while it does shed light on uncouth practices by publishers, it also includes emerging journals that have not had a chance to prove themselves, and is particularly critical of publishers that are not based in Western countries (see [Berger and Cirasella], [Crawford]);
-- A lot of things will impact your decision to publish in a journal: your discipline, where you’re at in your career, what you want out of a publication, how quickly you want your article published;
+  * Discussions about this specific journal (if possible, discussions between researchers in this field — their opinion may carry more weight);
+  * Discussions about the same publisher but not necessarily the same journal; 
+  * [Beall's list] (Please use with caution. Beall's list should not be taken as gospel – while it does shed light on uncouth practices by publishers, it also includes emerging journals that have not had a chance to prove themselves, and is particularly critical of publishers that are not based in Western countries (see [Berger and Cirasella], [Crawford])).
 
 [altmetrics]:http://altmetrics.org/tools/
 [Beall's list]:http://scholarlyoa.com/publishers/
