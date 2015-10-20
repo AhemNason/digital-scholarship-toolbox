@@ -8,5 +8,6 @@ Contributors list made up of anyone who has contributed time or text to the crea
 - Dawn Hooper | *University of Prince Edward Island*
 - Michael Nason | *University of New Brunswick*
 - Kathryn Reddy | *CAUL/CBUA*
+- Aggie Sliwka | *University of New Brunswick*
 - Ann Smith | *Acadia University*
 - Victoria Volkanova | *Université de Moncton*
