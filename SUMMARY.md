@@ -9,7 +9,6 @@
    * [Evaluating Journals](2-3-journals.md)
    * [Copyright and Author's Rights](2-4-copyright.md)
 * [On Repositories](3-digitalrepositories.md)
-   * [Test Repo Page](3-1-testrepo.md)
 * [Resources](4-resources.md)
 * [Contributors](5-contributors.md)
 
